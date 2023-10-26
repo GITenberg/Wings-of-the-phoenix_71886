@@ -1,0 +1,28 @@
+_repo: Wings-of-the-phoenix_71886
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Daley, John Bernard
+    alias: Daley, Bernard John
+    birthdate: 1918
+    deathdate: 2011
+    gutenberg_agent_id: '54356'
+    url: http://www.gutenberg.org/2009/agents/54356
+description: ''
+gutenberg_issued: '2023-10-15'
+identifiers:
+  gutenberg: '71886'
+language: en
+pgterms:marc905: 20230909111551daley
+pgterms:marc906: '1958'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bRoyal Publications, Inc., $c1958.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Wings of the phoenix
+url: http://www.gutenberg.org/ebooks/71886
