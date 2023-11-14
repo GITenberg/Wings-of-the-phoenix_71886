@@ -1,5 +1,8 @@
 _repo: Wings-of-the-phoenix_71886
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71886-h/images/cover.jpg
 creator:
   author:
     agent_name: Daley, John Bernard
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '54356'
     url: http://www.gutenberg.org/2009/agents/54356
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71886#Wings-of-the-phoenix
 gutenberg_issued: '2023-10-15'
 identifiers:
   gutenberg: '71886'
